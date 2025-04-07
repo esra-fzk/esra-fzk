@@ -14,7 +14,7 @@
 
 ---
 
-## 🇬🇧 About Me (English)
+## EN About Me (English)
 
 - 👀 I’m interested in: (to be asked)
 - 🌱 I’m currently learning: (to be asked)
